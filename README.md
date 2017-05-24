@@ -16,7 +16,7 @@ Currently, Jamtools offers only a handful of functions, but I'm constantly addin
 
 ## Usage
 All functions in Jamtools have the same commandline usage form:
-python jamtools.py example_command example.sam
+python jamtools.py command file.sam
 
 count_reads:				        
 counts the number of reads in a .Sam file
