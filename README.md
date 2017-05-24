@@ -11,6 +11,11 @@ Jamtools was created by J.D. Duryea (duryea@bcm.edu). Please feel free to ask an
 # Installation
 Installation is simple: just download the jamtools.py file and copy it to your working directory.
 
+# Dependencies:
+matplotlib
+numpy
+pylab
+
 # Functions
 Currently, Jamtools offers only a handful of functions, but I'm constantly adding more! These function have been useful to us at Waterland labs and hopefully they can help you too!
 
