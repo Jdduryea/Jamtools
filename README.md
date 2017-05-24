@@ -1,4 +1,4 @@
-# Jamtools - Software for working with.SAM files
+# Jamtools - Software for working with .SAM files
 Welcome to Jamtools! A Python tool for working with SAM files created with SAM files (files resulting from mapped sodium bisulfite converted next generation sequencing data). Jamtools performs similar functions to the popular software tool Samtools, but simplifies the usage of many functions and improves upon the speed due Jamtool's lightweight nature. 
 
 # Version
